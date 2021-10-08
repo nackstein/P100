@@ -1,4 +1,4 @@
-# P100
+# P100.sh
 shell script to control TP-Link P100 smart plug
 
 this script have some dependencies, openssl, nmap, curl.
