@@ -9,5 +9,5 @@ the syntax is simple as:
 ./P100.sh state
 
 if you need to drive more than one device you will need to change the code to add support for it.
-for example you will have to same token and cookie on a per-device base and pass the MAC as parameter
+for example you will have to add some token and cookie on a per-device base and pass the MAC as parameter
 to on / off function
